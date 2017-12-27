@@ -44,6 +44,7 @@ public class DownloadService extends Service {
     }
 
     private void startDownload(){
+        log("Download Started");
 
     }
 
